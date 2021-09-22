@@ -15,7 +15,7 @@ The project file contains a python script in 5 section and text file namely,
 6)text file(stock.txt)
       In this section the user needs to input the data like name of the book, author, quantity and cost.
       
-This project makes it easy for the library to keep the records of books, borrowing and returning of books in a digital way.      
+This project makes it easy for the library to keep the records of books, borrowing and returning of books in a digital way...      
       
       
       
